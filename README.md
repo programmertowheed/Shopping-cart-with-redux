@@ -1,3 +1,8 @@
+## Shopping cart react application with redux
+
+Live link: https://radiant-pudding-4859fd.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
